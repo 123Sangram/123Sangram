@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Full-Stack MERN Developer</strong> • Cybersecurity Enthusiast • DSA Lover  
   <br/>
-  I build **interactive 3D UIs**, **reliable backends**, and **secure systems**. Preparing for FAANG-level interviews & shipping production-ready projects.
+  I build **reliable backends**, and **secure systems**. Preparing for FAANG-level interviews & shipping production-ready projects.
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 ### 💼 Portfolio — `portfolio`  
 `Deployed: Vercel`  
-- Next.js + Tailwind + Framer Motion, 3D hero, projects with GIF demos.  
+- Next.js + Tailwind + Framer Motion, projects with GIF demos.  
 - Live: https://portfolio-three-zeta-54.vercel.app/
 
 ### 🤖 Emotion Recognition (Paper/Patent) — `emotion-transformer`  
