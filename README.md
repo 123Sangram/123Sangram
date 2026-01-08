@@ -68,6 +68,28 @@
 
 ---
 
+## 🧩 Open Source Contributions
+
+- Contributed to public open-source repositories by improving authentication workflows and user experience.
+- Enhanced login module with client-side validation to prevent empty and invalid submissions.
+- Improved error handling by implementing clear, user-friendly feedback for authentication failures.
+- Introduced loading states and disabled submit actions to prevent duplicate API requests.
+- Followed best practices for clean code, accessibility, and maintainable component structure.
+
+### Sample Contribution (Merged Pull Request)
+**Authentication & Login UX Improvements**
+- Added client-side validation for login inputs  
+- Prevented multiple form submissions using loading states  
+- Improved reliability and predictability of authentication flow  
+- Reduced unnecessary API calls caused by invalid inputs  
+
+✔ Tested locally  
+✔ No breaking changes  
+✔ Followed existing project structure and coding standards  
+
+🔗 GitHub: https://github.com/123Sangram
+
+
 ## 🏆 Achievements & Activities
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-250%2B_solved-FF6A00?style=for-the-badge&logo=leetcode&logoColor=white" />
